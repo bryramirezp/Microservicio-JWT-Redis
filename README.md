@@ -1,8 +1,17 @@
 # Microservicio JWT con Redis
 
-## Descripción
-
 Este proyecto es un microservicio de autenticación basado en JSON Web Tokens (JWT) desarrollado con Flask y Python. Proporciona una API REST completa para gestionar la autenticación de usuarios, incluyendo registro, login, refresh de tokens, logout y acceso a recursos protegidos. Utiliza Redis como sistema de almacenamiento temporal para tokens JWT y MariaDB para datos persistentes de usuarios, con dockerización completa para facilitar el despliegue.
+
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Adminer](https://img.shields.io/badge/Adminer-FF6600?style=for-the-badge&logo=adminer&logoColor=white)
+![PyJWT](https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ## Características
 
